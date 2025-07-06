@@ -1,20 +1,20 @@
 OVERALL CONCLUSION :
 
-CONCLUSION FROM NER_TAG ANALYSIS
+CONCLUSION FROM NER_TAG ANALYSIS :
 1. Fake news tends to use emotive, political, or nationalistic terms and vague time references to manipulate attention or stir sentiment.
 
 2. Factual news is more statistical, structured, and detailed, using quantifiers, financial terms, and ordinal references to communicate precise information.
 
-CONCLUSION FROM SENTIMENT ANALYSIS
-3. Fake news tends to be more negative in tone.
+CONCLUSION FROM SENTIMENT ANALYSIS :
+4. Fake news tends to be more negative in tone.
    Negative sentiments dominate fake news articles.
    This suggests fake news may often be crafted to provoke fear, anger, or outrage.
 
-3. Real news has a more positive tone.
+5. Real news has a more positive tone.
    Positive sentiment dominates real news.
    It implies that factual reporting is more balanced or optimistic, or at least less emotionally manipulative.
 
-4. Neutral sentiment is low in both.
+6. Neutral sentiment is low in both.
    Most news, whether real or fake, carries some form of polarity, either positive or negative.
    This might be due to the emotional nature of news content itself.
 
